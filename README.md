@@ -132,4 +132,4 @@ class movTick:
          movTick.n
           movieList=["Geetha Govindam movie","Dadak movie","RUSH movie","KD100 movie"]
           import random
-random.ra
+           random.ra
